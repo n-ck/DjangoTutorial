@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .Python
 env
 bin
@@ -5,3 +6,10 @@ lib
 include
 .DS_Store
 .pyc
+=======
+# Folders to ignore
+env
+
+# DS_Store file
+.DS_Store
+>>>>>>> pollapp
