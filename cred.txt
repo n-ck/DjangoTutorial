@@ -1,0 +1,4 @@
+admin
+django123
+
+left the tutorial off on this place
