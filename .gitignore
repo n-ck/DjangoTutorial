@@ -6,6 +6,7 @@ lib
 include
 .DS_Store
 .pyc
+*.pyc
 =======
 # Folders to ignore
 env
