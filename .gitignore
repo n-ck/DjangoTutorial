@@ -16,4 +16,4 @@ env
 >>>>>>> pollapp
 
 # Django Settings.py file
-settings.py
+/mysite/settings.py
