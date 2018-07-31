@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'mysite.wsgi.application'
+WSGI_APPLICATION = 'mysite.wsgi'
 
 
 # Database
@@ -121,5 +121,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 #Activate Django-Heorku
-django_heroku.settings(locals(allowed_hosts=False,secret_key=False, logging=False))
+django_heroku.settings(locals())
 
