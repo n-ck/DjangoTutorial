@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 .Python
-env
 bin
 lib
 include
@@ -16,3 +15,10 @@ env
 >>>>>>> pollapp
 
 # Django Settings.py file
+
+# Virtual environments
+env
+venv
+
+# Other files
+/mysite/test_settings.py
