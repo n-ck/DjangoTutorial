@@ -22,3 +22,4 @@ venv
 
 # Other files
 /mysite/test_settings.py
+/mysite/deploy_settings.py
