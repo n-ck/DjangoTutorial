@@ -20,6 +20,10 @@ env
 env
 venv
 
+#SQLITE
+db.sqlite3
+
 # Other files
 /mysite/test_settings.py
 /mysite/deploy_settings.py
+
