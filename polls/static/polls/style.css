@@ -1,6 +1,10 @@
 body {
+	font-family: 'Arial', sans-serif;
 	background: white url("images/background.png") no-repeat right bottom;
 }
 li a {
-	color: green;
+	color: black;
+}
+h1 {
+
 }
